@@ -27,3 +27,6 @@ I'll be adding more directories and scripts in the future to cover additional Py
 
 ### Contributing
 Contributions are welcome! 🎉
+
+![resim_2024-03-14_120042954](https://github.com/EzgiTastan/pythonPracticeKit/assets/139014781/c97d4f65-e8da-4d5e-b6f1-33bd4ca6bb17)
+(created with Blue Willow)
