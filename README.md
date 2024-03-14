@@ -24,6 +24,7 @@ I'll be adding more directories and scripts in the future to cover additional Py
 
 - Even Numbers: Scripts for adding the even numbers till what the user provides for us.
 - Highest Score: Scripts for finding the highest score in a list.
+- Password generator: consists of easy and hard level generators. While the easy one combines different elements(numbers, letters, symbols) in order, the hard one will shuffle those inside a list and return a much functional output :)
 
 ### Contributing
 Contributions are welcome! 🎉
